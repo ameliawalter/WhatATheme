@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://github.com/ameliawalter/'
+url:
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: WhatATheme
+baseurl:
 
 # Title of the Site
 title: Amelia Walter
@@ -26,7 +26,7 @@ email: qamelia.quality.assurance@gmail.com
 facebook_username: 
 twitter_username: 
 instagram_username: testowanie.oprogramowania
-linkedin_username: https://www.linkedin.com/in/ameliawalter/
+linkedin_username: ameliawalter
 github_username:  ameliawalter
 youtube_channel_id: 
 reddit_username: /
