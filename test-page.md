@@ -1,5 +1,5 @@
 ---
-title: Test Page
+title: Cel bloga
 layout: page
 ---
 
