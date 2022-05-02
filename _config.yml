@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: http://amelia.qa/
+url: https://amelia.qa/
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: /WhataTheme
+baseurl:
 
 # Title of the Site
 title: Amelia Walter
