@@ -1,3 +1,4 @@
+---
 title: Czy nadaję się, by być testerem?
 layout: post
 post-image: "https://github.com/ameliawalter/WhatATheme/blob/master/assets/images/czy-nadaje-sie.jpg"
@@ -5,6 +6,7 @@ description: Subiektywna lista cech, które powinieneś posiadać jeśli w przys
 tags:
 - soft skills
 - przebranżowienie
+---
 
 # Kluczowe cechy testera
 
