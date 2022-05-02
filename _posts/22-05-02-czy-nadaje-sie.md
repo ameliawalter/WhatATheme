@@ -8,11 +8,11 @@ tags:
 - przebranżowienie
 ---
 
-# Kluczowe cechy testera
-
 Przeglądając fora dotyczące testowania, szeroko pojętego IT oraz rynku pracy nie sposób nie zauważyć licznych postów w stylu "jak zostać testerem i wejść do branży?". Część pytań pochodzi od osób, które od pewnego czasu zgłębiają tematykę testowania i są zdecydowane, że chcą podążać testerką drogą. Jednak często pytanie zadają osoby, które nie są jeszcze przekonane, co chciałyby robić - wiedzą, że chcą zmiany na ciekawszą/bardziej elastyczną/lepiej płatną/etc. pracę. Usłyszały o fajnej atmosferze w pracy kuzyna programisty, zobaczyły reklamę kursu testowania zachęcającą niskim progiem wejścia do IT i poszukują odpowiedzi, czy jest to dobra ścieżka do obrania.
 
 Znalezienie pierwszej pracy jako tester zwykle wymaga dużych nakładów pracy własnej - na stanowiska entry level lub programy stażowe jest zwykle wielu chętnych, w związku z czym niełatwo jest wyróżnić się z tłumu, a wymagania pracodawców rosną. Poza tym łatwiej przebiega wdrożenie osoby, która przychodzi do pracy z jakimś zasobem wiedzy, z praktycznym zrozumieniem tematu i z chęcią o dalszej nauki (której nie da się w niezawodny sposób zmierzyć, więc zwykle patrzy się na to, ile wysiłku kandydat włożył w naukę przed rekrutacją). Żadna wiedza nie daje jednak absolutnej gwarancji otrzymania pracy ani tego, czy uda się tę pracę znaleźć w miesiąc czy w rok - zależy to od wielu czynników, częściowo losowych (np. czy akurat w najbliższym czasie zostanie otwarta odpowiednia rekrutacja).
+
+# Kluczowe cechy testera
 
 Zanim rzucimy się w wir nauki i przygotowań, dobrze byłoby więc zidentyfikować odpowiedni dla siebie kierunek rozwoju i upewnić się, że na pewno chcemy zainteresować się bliżej testowaniem, a nie przykładowo analizą biznesową czy programowaniem. Oczywiście rozpoczęcie kariery jako tester nie wyklucza też późniejszej zmiany stanowiska i kierunku rozwoju, ale dlaczego mielibyśmy decydować się na coś, jeśli od początku inny kierunek wydaje nam się o wiele ciekawszy i wiemy, że i tak testowanie będzie tylko nadkładaniem drogi, żeby tam dotrzeć? (Zaczynanie od testowania jako "prostego" sposobu, żeby zostać programistą nie jest raczej polecaną drogą).
 
