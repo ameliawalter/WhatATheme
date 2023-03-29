@@ -1,7 +1,7 @@
 ---
 title: Czym jest Agile?
 layout: post
-post-image: "https://github.com/ameliawalter/WhatATheme/blob/master/assets/images/czym-jest-agile.jpg?raw=true"
+post-image: "https://raw.githubusercontent.com/ameliawalter/WhatATheme/master/assets/images/czym-jest-agile.png"
 description: Krótka historia modeli wytwarzania oprogramowania i kilka słów o przyczynach królowania modeli zwinnych
 tags:
 - SDLC
