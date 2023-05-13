@@ -9,7 +9,7 @@ baseurl: ''
 # Title of the Site
 title: Amelia Walter
 # Description of the Site
-description: Strona osobista i blog testerki oprogramowania
+description: QA, Test Automation Engineer
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -23,9 +23,9 @@ heroimage: https://github.com/ameliawalter/WhatATheme/blob/master/assets/images/
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: qamelia.quality.assurance@gmail.com
-facebook_username: ameliatests
-twitter_username: ameliatests 
-instagram_username: testowanie.oprogramowania
+facebook_username: 
+twitter_username:  
+instagram_username: qa.amelia
 linkedin_username: ameliawalter
 github_username:  ameliawalter
 youtube_channel_id: 
@@ -45,7 +45,7 @@ author-name: Amelia Walter
 # URL for the Image of the Author
 author-image: https://github.com/ameliawalter/WhatATheme/blob/master/assets/images/portrait.jpg?raw=true
 # 60 Words About the Author
-author-about: Testuję oprogramowanie od 2017 roku. Moje wejście do branży IT zapoczątkowane chęcią spróbowania czegoś nowego przerodziło się w przygodę pełną wyzwań. Zaczęłam od testów manualnych, uzupełniając sukcesywnie swoje umiejętności o SQL, testowanie API czy automatyzację testów z Selenium. Uwielbiam dzielić się wiedzą i pomagać innym tak samo, jak wiele osób pomogło (i nadal pomaga) mnie w moim rozwoju.  
+author-about: Moje wejście do branży IT w 2017 roku, zapoczątkowane chęcią spróbowania czegoś nowego, przerodziło się w przygodę pełną wyzwań. Zaczęłam od testów manualnych, uzupełniając sukcesywnie swoje umiejętności o SQL, testowanie API, automatyzację testów. Po pracy piszę artykuły, wymieniam się z innymi wiedzą w SM, na meetupach i konferencjach, szkolę się z nowych umiejętności i ćwiczę programowanie. Szlifuję znajomość trzech języków obcych i nurkuję w tematy psychologiczne związane z uczeniem się, work-life balance, komunikacją, psychologią pozytywną.    
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://www.linkedin.com/in/ameliawalter/
 
