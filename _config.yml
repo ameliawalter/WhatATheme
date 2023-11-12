@@ -7,9 +7,9 @@ url: https://amelia.qa
 baseurl: ''
 
 # Title of the Site
-title: Amelia Walter
+title: Amelia Walter-Dzikowska
 # Description of the Site
-description: QA, Test Automation Engineer
+description: QA & Test Automation Engineer
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -41,11 +41,11 @@ google-analytics: UA-163806439-1
 disqus-shortname:
 
 # Name of the Author
-author-name: Amelia Walter
+author-name: Amelia Walter-Dzikowska
 # URL for the Image of the Author
 author-image: https://github.com/ameliawalter/WhatATheme/blob/master/assets/images/portrait.jpg?raw=true
 # 60 Words About the Author
-author-about: Moje wejście do branży IT w 2017 roku, zapoczątkowane chęcią spróbowania czegoś nowego, przerodziło się w przygodę pełną wyzwań. Zaczęłam od testów manualnych, uzupełniając sukcesywnie swoje umiejętności o SQL, testowanie API, automatyzację testów. Po pracy piszę artykuły, wymieniam się z innymi wiedzą w SM, na meetupach i konferencjach, szkolę się z nowych umiejętności i ćwiczę programowanie. Szlifuję znajomość trzech języków obcych i nurkuję w tematy psychologiczne związane z uczeniem się, work-life balance, komunikacją, psychologią pozytywną.    
+author-about: Od 2017 roku poświęcam 1/3 swojej doby i część swojego serca testom i jakości 🖤 Dotąd pracowałam w trzech ludzkich językach i w trzech językach programowania. Nieustannie szlifuję kompetencje techniczne i miękkie. Offline przemawiam na różnych konferencjach, wybierając często softskillowe tematy. Online publikuję na Instagramie i LinkedInie. Stawiam swoje pierwsze kroki jako trenerka. Cieszę się, że tu trafił*ś!    
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://www.linkedin.com/in/ameliawalter/
 
