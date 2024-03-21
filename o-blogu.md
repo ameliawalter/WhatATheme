@@ -1,15 +1,14 @@
 ---
-title: O blogu
+title: About the blog
 layout: page
 ---
 
-Zdecydowałam się zacząć tworzyć teksty z kilku powodów:
+I have decided to create a series of blog articles in Polish as:
 
-- testerska blogosfera w języku polskim wygląda dość skromnie, więc chciałabym mieć wkład w choć trochę większy jej rozwój
+- Polish testing blogosphere is not very developed compared to the English-speaking one and I would like to contribute
 
-- wiele osób interesuje się zawodem testera i szuka informacji o starcie w branży
+- I would like to have my own small knowledge-sharing platform
 
-- lubię dzielić i wymieniać się wiedzą z innymi, więc zbieranie jej w jednym miejscu wydaje się dobrym pomysłem, który to ułatwi
+- I enjoy writing
 
-
-- lubię pisać!
+For content in English, please visit my LinkedIn.
