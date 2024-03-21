@@ -1,5 +1,5 @@
 ---
 layout: project
-title: Moje projekty
+title: Projects & activities
 ---
 
