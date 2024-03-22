@@ -63,6 +63,10 @@ a.navbar-item.is-active {
 }
 .title {
     margin: auto 0.75rem!important;
+    white-space: nowrap;
+    overflow: hidden; 
+    font-size: 1rem;
+    letter-spacing: normal;
 }
 .subtitle {
     letter-spacing: 0.25rem;
