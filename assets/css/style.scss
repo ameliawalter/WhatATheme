@@ -63,10 +63,6 @@ a.navbar-item.is-active {
 }
 .title {
     margin: auto 0.75rem!important;
-    white-space: nowrap;
-    overflow: hidden; 
-    font-size: 1rem;
-    letter-spacing: normal;
 }
 .subtitle {
     letter-spacing: 0.25rem;
@@ -153,9 +149,9 @@ a.navbar-item.is-active {
             .image {
                 padding-top: 50% !important;
             }
-                .title {
-        font-size: 0.8rem; 
-    }
+            .title {
+        font-size: calc(100vw / 15);
+            }
         }
 
         .title {
