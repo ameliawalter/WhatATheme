@@ -1,20 +1,38 @@
 <section class="hero is-fullheight has-text-centered" id="contact">
     <div class="hero-body">
         <div class="container">
-            {% unless site.facebook_username == %}
-            <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
-                target="_blank">
-                <i class="fab fa-facebook-messenger"></i>Ping me on Messenger
-            </a>
-            {% endunless %}
+
+             <h1 class="title has-text-black is-uppercase has-text-weight-bold">JAK MOGĘ CI POMÓC?</h1>
+            <br>
             {% unless site.email == %}
             <a id="contact-button" href="mailto:{{site.email}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fas fa-envelope"></i>Napisz do mnie
+                <i class="fas fa-envelope"></i>Pytania? Napisz do mnie!
             </a>
             {% endunless %}
+            <br>
+            <p>Może zainteresuje Cię mój <a href="{{site.url}}{{site.baseurl}}/blog">blog</a> (nie trzeba mi co pół roku przypominać, żeby wrzucić tam wpis) oraz moja oferta mentoringu <a href="{{site.url}}{{site.baseurl}}/#projects">projects</a>!</p>
+            Zapraszam Cię na moje media społecznościowe:
+            <br>
+            <br>
+            
+            {% unless site.linkedin_username == %}
+            <a id="contact-button" href="http://www.linkedin.com/in/{{site.linkedin_username}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-linkedin"></i>LinkedIn
+            </a>
+            {% endunless %}
+            
+            {% unless site.instagram_username == %}
+            <a id="contact-button" href="http://www.instagram.com/{{site.instagram_username}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-facebook-messenger"></i>Instagram
+            </a>
+            {% endunless %}
+            
             {% unless site.twitter_username == %}
             <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
@@ -24,7 +42,7 @@
             {% endunless %}
             <hr>
             <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
-                Zobacz co publikuję tutaj:
+
             </h3>
             <div class="column is-full is-size-3">
                 {% unless site.facebook_username == %}
