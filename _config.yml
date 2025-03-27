@@ -19,7 +19,7 @@ favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 # heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-heroimage: https://github.com/ameliawalter/WhatATheme/blob/master/assets/images/blue_background.jpg?raw=true
+heroimage: https://github.com/ameliawalter/WhatATheme/blob/master/assets/images/prelekcja.jpg?raw=true
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: amelia.a.walter@gmail.com
@@ -45,7 +45,7 @@ author-name: Amelia Walter-Dzikowska
 # URL for the Image of the Author
 author-image: https://github.com/ameliawalter/WhatATheme/blob/master/assets/images/portrait.png?raw=true
 # 60 Words About the Author
-author-about: Since 2017, I've been devoting 1/3 of my day and a part of my 🖤 to testing and quality. I've worked in 3 human languages (Polish, English, French) and in 3 programming ones (JavaScript, C#, Python). I speak at conferences, mentor and train, create social media content. I've tested all possible learning methods on myself and made many errors so that my students don't have repeat them!
+author-about: Zapewniam jakość oprogramowania, automatyzuję testy, organizuję pracę zespołu QA jako Technical PO. Promuję wiedzę o umiejętnościach miękkich w IT na konferencjach i innych eventach. Mówię w trzech językach obcych i lawiruję w labiryncie komunikacji międzykulturowej.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://www.linkedin.com/in/ameliawalter/
 
