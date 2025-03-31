@@ -1,5 +1,5 @@
 ---
 layout: project
-title: Projects & activities
+title: Linki do moich wystąpień
 ---
 
