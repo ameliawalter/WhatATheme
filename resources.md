@@ -1,5 +1,5 @@
 ---
-title: Prelekcje i projekty
+title: Materiały do nauki
 layout: page
 ---
 
