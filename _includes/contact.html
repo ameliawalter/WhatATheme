@@ -17,7 +17,29 @@
             Zapraszam Cię na moje media społecznościowe:
             <br>
             <br>
-    
+             {% unless site.linkedin_username == %}
+            <a id="contact-button" href="http://www.linkedin.com/in/{{site.linkedin_username}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-linkedin"></i>LinkedIn
+            </a>
+            {% endunless %}
+            
+            {% unless site.instagram_username == %}
+            <a id="contact-button" href="http://www.instagram.com/{{site.instagram_username}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-facebook-messenger"></i>Instagram
+            </a>
+            {% endunless %}
+            
+            {% unless site.youtube_username == %}
+            <a id="contact-button" href="https://www.youtube.com/@{{site.youtube_username}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-youtube"></i>YouTube
+            </a>
+            {% endunless %}
             <hr>
             <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
 
